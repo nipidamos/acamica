@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'open sans';
+}
+.contenedor {
+    padding: 60px 0;
+    width: 100%;
+    max-width: 2000px;
+    margin: auto;
+    overflow: hidden;
+}
+.titulo {
+    text-align: left;
+    font-size: 30px;
+    color: $secundary-color;
+    padding-bottom: 20px;
+}
